@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.all-browsers {
+  margin: 0;
+  padding: 5px;
+  background-color: lightgray;
+}
+
+.all-browsers > h1, .browser {
+  margin: 10px;
+  padding: 5px;
+}
+
+.browser {
+  background: white;
+}
+
+.browser > h2, p {
+  margin: 4px;
+  font-size: 90%;
+}
+</style>
+</head>
+<body>
+
+<article class="all-browsers">
+  <h1>zelda breath of the wild gliches</h1>
+  <article class="browser">
+    <center><h2>gliches list</h2></center>
+    
+    <h3>1.Bullet-Time Bounce</h3>
+   <p>-To perform this glitch, you will need an enemy. Go to a ledge or vantage point overlooking the enemy; if they are not a red variation, they must be frozen before attempting this glitch. Use Shield Surfing to jump off the ledge (i.e. Shield Jump) and pull out the Bow to slow time mid-descent. If your shield lands on the enemy during the slow-down, immediately stop slow-down by pressing Y, unequipping the bow, or pressing B twice. If performed correctly, Link will fly at a vastly accelerated speed; this can be combined with the Paraglider to cross impressive distances.</p>
+    
+    <h3>2.Bow Spinning</h3> 
+    <p>-Equip a heavy weapon and hold Y, then press ZR and B at the same time.</p>
+    
+    <h3>3.Fall Damage Cancel</h3>
+    <p>-Hold R to ready weapon throw when in the air or walking off ledge. As you release R, equip another one or unequip using right on the D-Pad. If done correctly, Link will keep both weapons but the fall timer will be reset and damage will not be taken if done close enough to the ground.</p>
+    
+    <h3>4.Bullet Time Launch</h3>
+   <p>-Place an object over water and stand on a ledge you can activate Bullet Time from. Create a Cryonis Pillar underneath the object and activate Bullet Time as the pillar is raising.</p>
+    
+    <h3>5.Arrow Duplication</h3>
+    <p>-Use a multishot bow (preferably x5 but any bow that has a multiplier works) to shoot into a lit torch in the Lost Woods or Kara Kara Bazaar. The arrows shot will not despawn.</p>
+    
+    <h3>6.Weapon Durability Glitch</h3>
+    <p>-Press Y and switch the weapon 1 frame before the enemy gets hit.</p>
+    
+    <h3>7.Blood Moon Timer Reset</h3>
+    <p>-Use a Travel Gate (or a placed Travel Medallion) to warp away just before the clock strikes midnight. You will know you did it correctly if, upon arrival at the destination, no cutscene plays, the clock shows midnight, and only Malice particles are about, no red sky effect.</p>
+    
+    <h3>8.Infinite Guardian Parts</h3>
+    <p>-Move one of those four guardians two quadrants away from their spawn point.</p>
+    
+    <h3>9.Glitched Shop Items</h3>
+    <p>-Stand in front of the item, place a bomb. Pick it up and pause buffer. If you pause, there'll be one frame that displays the incorrect number of rupees, melee damage etc.</p>
+    
+    <h3>10.Goddess Glitch</h3>
+    <p>-If you have full hearts and stamina (To do this: [Apparatus Glitch: Heart Duping], talk to the goddess in the Temple of Time repeatedly.</p>
+    
+    <h3>11.Apparatus Glitch</h3>
+    <p>-Perform the Camera Glitch in a shrine with an apparatus. When in the camera menu, press A on the Apparatus to both Examine and Capture Image at the same time. Select Delete and immediately pause, hold an item, unpause, then pause again and watch a memory. Unpausing allows control of both Link and the Apparatus and lead to the glitches below.</p>
+    
+    <h3>12.Apparatus Glitch: Heart Dupicting</h3>
+    <p>-Sell any number of Link's essences to the statue. Note that this value will be doubled by the glitch, regardless of whether hearts or stamina is sold. Save the game, then buy back the essences. The game will autosave a few times during this process. Perform the apparatus glitch, then pause and load the save that YOU made after selling to the statue (NOT the autosave!) then talk to the statue again. The statue will still have the essences sold to it, and Link will still have the amount of hearts and stamina received from buying them back the first time. Buying the glitched essences will result in the duplication.</p>
+    
+    <h3>13.Apparatus Glitch: Early Master Sword</h3>
+    <p>-Save on a horse next to the Master Sword, perform the Apparatus Glitch, then reload and warp to another place. Now collect the Master Sword.</p>
+     
+     <h3>14.Apparatus Glitch: Climate Immunity</h3>
+    <p>-Perform the Apparatus Glitch twice in a row very quickly (Reload before the camera fully zooms out).</p>
+    
+    <h3>15.Apparatus Glitch: Free Rupees</h3>
+    <p>-Do the Heart Duping glitch but don't buy your hearts back. Upon reloading the save, Link will have the hearts back but still keep the rupees for selling them.</p>
+    
+    <h3>16.Moon Jump</h3>
+    <p>-Start the Mounted Archery minigame near the Lake Tower and Highland Stable, then be riding on a bucking wild horse as the timer runs out. Once it does, you'll still be on the horse as it keeps jumping into the air, so teleport to any warp spot on the map. Link will be able to jump in mid air, however you cannot paraglide or enter bullet time, as the game seems to consider Link in somewhat of a grounded state. This glitch is reset if you either reset the game or ride a horse, Lynel or the Mastercycle Zero.</p>
+   
+   <h3>17.Ride Prince Sidon Anywhere</h3>
+    <p>-Go to the boss battle trigger (like the Sanctum), and stop just outside of said trigger. Now, shoot an arrow/bunch of arrows at the location the boss spawns during the cutscene, and quickly activate the battle while they're in mid air. If done correctly, the boss should take tons of damage during the pre fight cutscene, and collapse dead the minute the cutscene ends.</p>
+    
+    <h3>18.Dupe Items Anywhere</h3>
+    <p>-Equip one of the multishot bows and the shock arrow(s). Tap ZR so Link pulls out his bow, drop the bow on the floor, equip another multishot bow, then repeat six times. Link should start to disappear on the menu screen. From here, just equip the item you want to clone via the quick change menu, and swap it out for the one you want to replace in the inventory itself. If done correctly, the item that Link's shown to be holding should not have changed. Now, drop the currently equipped item, and it'll become a clone of the one you want to dupe instead.</p>
+    
+    <h3>19.Item Duplication at Link's House</h3>
+    <p>- Link must empty a display case in his house, and equip the Item he is trying to duplicate. Then, he must equip a Shock Arrow and drop multiple multishot Bows and equip another one in his Inventory. When Link has done this enough, most of his body will stop appearing when in his inventory. For this to work, he cannot put away his Bow as well. Then, Link must equip his spare weapon, although the Item he is attempting to duplicate will stay on his back. Afterwards, he must put that Item in its appropriate display case and retrieve it again. If he goes back to his Inventory, he will find that he has duplicated the Item.</p>
+  
+  <h3>20.Memory Storage</h3>
+    <p>-You will need the following things: The Travel Medallion, the upgraded Sheikah Sensor, at least 1 Hyrule Compendium entry, at least one recovered Captured Memory, plus a sidequest to mark on the map. Once you have all of that, go to the Inventory, and place the cursor on The Travel Medallion. Go into Hyrule Compendium, select the picture, and press the Y button to begin searching, and then press the + button to open the Inventory immediately afterwards. Before the 'Searching' text disappears, place down the Travel Medallion, before going back to the map. Selecting a sidequest, pressing Y to change to Shrines, then as it's searching, open up the Adventure Log. Press Right and A quickly, and you should have the Memory prompt in normal gameplay. Afterwards, go to a cooking pot, then by pausing the game, and by going to the option screen, selecting load, then when you select a file, immediately view the Captured Memory from the glitched menu. Now, you must kill Link without pausing the game. You then need to return to the title screen from the game over screen. Once here, start a new game. If the glitch has been done correctly, you will notice something a bit weird. Namely, the game would never save, which means you have to do a "No Death Run" of the game. Continue through the game until you get your first Captured Memory. Free all of the Divine Beasts. And once you are ready, fight Dark Beast Ganon. During the battle, watch a Memory cutscene. Now, whittle down its health as usual. When you are about to do the final blow, switch to another bow in the Inventory. Watch or skip the ending, then load the save file. For whatever reason, it'll put you back at the Shrine of Resurrection as if you started a new game. Then wait for it to save, then reload the autosave. The game also acts as if you have gotten every type of weapon for the first time, and all of your Inventory items, including the Bow of Light, is transferred into the new save. You can use them all right from the start of the game.</p>
+  
+  <h3>13.Early Master Sword</h3>
+    <p>-Go to the Master Sword pedestal in Korok Forest, and put some wood on the corner of the pedestal. Light it to start a campfire, then sit at the campfire, and look up at the trees above. Mash A as the time skips ahead, and you should get the sword early.</p>
+    
+    <h3>21.Infinite Rupees</h3>
+    <p>-Go over to the Riverside Stable in the Afternoon- ( Going in the early morning or at night it won't work because the character we need for this would be sleeping.)- And find the girl there named Parcy. Remove All gear, clothing, and weapons equipped on Link. ( Just disequip them, but keep them in your inventory) Equip one of your Multishot bows along with a shock arrow. Exit your menu, and push the ZR button so that link is holding the bow in front of him. Go back to your menu and drop the bow you are currently holding, then while still in the menu equip another multishot bow. Exit your menu, then repeat and drop the one you are currently holding. Repeat until the only thing that you see when you open the menu is Links shaved head ( If his belt is still visible that is OK) Now that this has happened, you can equip ONE of your Royal Gaurd Weapons, Shields, OR, bows, if you do not hear the sound of you equipping something, then you are doing it right. Now speak to Parcy, and say Yes when she asks for your weapon. If done correctly, your weapon should not leave your inventory, and you can keep giving her your weapons. The glitch will cancel once you collect one of your multishot bows.</p>
+    
+    <h3>22.BLS Sliding</h3>
+    <p>-Place down a bomb, then take out your bow. Press B and + at the same time, and unequip your shield. From there, equip your shield again, then pick up the weapon you want to hold. Jump, and press B and + at the same time. Unequip your shield, then aim your bow to get the item stuck to Link's hand. Now, to slide through the air, just hold B and try to climb onto a ledge. You can alternate directions to speed up, and stopping will drop Link to the ground again.</p>
+    
+    <h3>23.Dupe Materials/Spirit Orbs/Korok Seeds</h3>
+    <p>-Overload the game by aiming shock arrows with multishot bows. Then, hold 5 of any material, and sell the remaining items of that kind at a shop. Now, pick up a new item you don't already have any of in your inventory, and press X in your inventory to stop holding the old items. They'll have transformed into copies of the item you just picked up.</p>
+    
+    <h3>24.Inventory Slot Transfer</h3>
+    <p>-Overload the game with Shock Arrows, then hold 4 separate items. Sell the rest of these items at a shop, then hold another type of item. Drop it, and pick it up to created glitched inventory slots. The more times you do this process, the more glitched inventory slots you'll create. This will let you transfer the last X number of items to the last save you loaded, with X being equal to the number of glitched slots created.</p>
+    
+    <h3>25.Weapon Modifier Corruption</h3>
+    <p>-Make sure you have no armour or item slots between the meals tab and the relevant weapon. Then, get the meal whose stats you want used on this file, and transfer 60 meals from another file with Inventory Slot Transfer. The recipe for the meal you used will be applied to the weapon's modifiers instead, with insane results.</p>
+    
+    <h3>26.999 of Any Material</h3>
+    <p>-First, make sure your new file has no armour. Then, put the material you want to clone in the first item slot, and equip a shield. Save the game, and load the alternate file. Setup enough IST slots to transfer a shield + any necessary key items. Return to the other file, and don't open the menu. Get an auto save, then get rid of the rest of that first item type. Reload the auto save, and you should now have 999 of that item.</p>
+    
+    <h3>27.999 Korok Seeds</h3>
+    <p>-Start a new game, and exit the Shrine of Resurrection without collecting any clothing. Pick up a woodcutter's axe, and save the game. This will be save 1. Then, jump into the ring of water lilies nearby for a Korok seed, which will be referred to as save 2. Load the alternate save file, and get two IST slots.</p>
+    
+    <h3>28.Lose/Destroy the Bow of Light</h3>
+    <p>-Overload the game, then switch to a wooden bow in the quick select menu. Go to the pause menu, and equip the Bow of Light (Link's model should not update in game when you do this). Now, set the bow on fire, and either enter a shrine or teleport when it disintegrates.</p>
+    
+    <h4>made by matthew.a</h3>
+  </article>
+ 
+
+</body>
+</html>
+
